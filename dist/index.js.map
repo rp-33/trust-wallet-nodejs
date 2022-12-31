@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["Server","listen"],"mappings":"AAAA;;AAEA;;;;;;AAEAA,cAAOC,MAAP","file":"index.js","sourcesContent":["'use strict';\n\nimport Server from './app';\n\nServer.listen();"]}

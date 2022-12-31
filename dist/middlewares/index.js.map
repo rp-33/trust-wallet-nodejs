@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/middlewares/index.js"],"names":["auth"],"mappings":"AAAA;;;;;;;AAEA;;;;;;QAGCA,I,GAAAA,c","file":"index.js","sourcesContent":["'use strict';\n\nimport auth from './auth';\n\nexport {\n\tauth\n}"]}
